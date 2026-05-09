@@ -1,5 +1,7 @@
 # 💈 Barber Shop Business Dashboard
 
+![Dashboard Preview](dashboard-preview.png)
+
 An interactive business analytics dashboard built in Microsoft Excel
 to monitor and analyze barber shop performance across multiple US cities.
 
